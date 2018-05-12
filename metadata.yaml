@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26773'
     url: http://www.gutenberg.org/2009/agents/26773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27463#The-Wonders-of-the-Jungle-Book-Two
 gutenberg_issued: '2008-12-09'
 gutenberg_type: Text
 identifiers:
