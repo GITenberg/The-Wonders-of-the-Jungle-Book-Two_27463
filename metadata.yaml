@@ -1,0 +1,26 @@
+_repo: The-Wonders-of-the-Jungle-Book-Two_27463
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ghosh, Sarath Kumar
+    alias: Ghosh, Prince Sarath
+    birthdate: 1883
+    gutenberg_agent_id: '26773'
+    url: http://www.gutenberg.org/2009/agents/26773
+description: ''
+gutenberg_issued: '2008-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoology -- Juvenile literature'
+- !lcc 'QL'
+title: The Wonders of the Jungle, Book Two
+url: http://www.gutenberg.org/ebooks/27463
